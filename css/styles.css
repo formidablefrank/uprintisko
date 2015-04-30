@@ -1,0 +1,52 @@
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/Lato-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Open';
+  src: url('../fonts/Open-Sans-800.ttf');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/Roboto-Regular.ttf');
+}
+
+#intro{
+    color: blue;
+}
+
+.tableData{
+    padding: 2%;
+}
+p{
+    color: #000;
+}
+
+.bordered{
+    border: 1px solid black;
+}
+
+.columns{
+    color: white;
+    background-color: rgba(0,0,0,0);
+}
+
+body {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/wall.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.whiteform{
+    background-color: white;
+    border-radius: 5px;
+}
+
+.whiteform h2{
+    color:black;
+}
+
+h1, h2, p{
+    color:white;
+}

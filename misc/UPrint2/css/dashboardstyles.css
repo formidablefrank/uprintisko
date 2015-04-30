@@ -1,0 +1,29 @@
+img {
+
+	height: 100;
+	width: 200;
+	margin-bottom: 10px;
+}
+
+
+
+h1{
+
+	font-family: Calibri;
+	font-size: 20px;
+
+}
+
+#bigli {
+
+	width: 25%;
+}
+
+button {
+
+	width: 100%;
+}
+
+a{
+	color: white;
+}
